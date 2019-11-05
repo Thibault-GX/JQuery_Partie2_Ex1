@@ -1,0 +1,10 @@
+#randySavage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../img/randySavageAcceptIt.webp");
+  height: 50vh;
+  width: 70vh;
+  background-size: cover;
+  border-radius: 20px;
+}
